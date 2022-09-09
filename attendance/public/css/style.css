@@ -1,0 +1,65 @@
+.parent{
+    margin: 1rem;
+    text-align: center;
+}
+
+.child{
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.all{
+    margin: 1rem;
+    text-align: center;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+.sections{
+    border:2px solid dimgrey;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
